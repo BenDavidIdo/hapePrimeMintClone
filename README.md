@@ -1,7 +1,6 @@
 # Getting Started
 
-This project was made to test out react, i chose to recreate the minting page of HAPE PRIME, as it has a lot of elements in it to test out. to run the project make sure to do
-`npm start`
+This project was made to test out react, i chose to recreate the minting page of HAPE PRIME, as it has a lot of elements in it to test out. 
 
 Hopefully you may find this somewhat usefull
 
